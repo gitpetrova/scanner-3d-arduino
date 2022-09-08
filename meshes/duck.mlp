@@ -1,0 +1,15 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="mesh2021-08-20_15_36_03.txt" filename="mesh2021-08-20_15_36_03.txt" visible="1">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireWidth="1" solidColor="192 192 192 255" pointSize="1" pointColor="131 149 69 255" boxColor="234 234 234 255" wireColor="64 64 64 255">000111000000000000000000000000000000000010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
